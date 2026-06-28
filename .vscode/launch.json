@@ -10,7 +10,7 @@
             "type": "python",
             "python": "${workspaceFolder}/.venv/bin/python",
             "request": "launch",
-            "cwd": "${workspaceFolder}/First_Framework",
+            "cwd": "${workspaceFolder}/Second_Framework",
             "module": "flask",
             "env": {
                 "FLASK_APP": "run.py",
